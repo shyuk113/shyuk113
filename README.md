@@ -2,7 +2,6 @@
 
 # 👋 안녕하세요, 백엔드 개발자 shyuk113입니다
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshyuk113&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 도메인 중심 설계와 문제 해결을 즐기는 Java/Spring 백엔드 개발자입니다.
 
@@ -67,7 +66,7 @@
 
 <div align="center">
 
-[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shyuk113)](https://solved.ac/shyuk113)
+[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shyuk113)](https://solved.ac/whitepaper113)
 
 </div>
 
@@ -88,7 +87,7 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shyuk113@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danial25693@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shyuk113)
 
 </div>
