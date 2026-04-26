@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shyuk113)](https://solved.ac/whitepaper113)
+[![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whitepaper113)](https://solved.ac/whitepaper113)
 
 </div>
 
